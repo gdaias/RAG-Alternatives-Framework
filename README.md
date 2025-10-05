@@ -20,7 +20,7 @@
   - [**1.1 Sobre o Projeto**](#-11-sobre-o-projeto)
   - [**1.2. Para Quem é Este Repositório**](#12-para-quem-é-este-repositório)
 
-### [2 Guia de Uso Prático](#2-guia-de-uso-prático)
+### [2 Guia de Uso Prático](#2-guia-de-uso-prático-1)
   - [**2.1. Quick Start:**](#21-quick-start)
   - [**2.2. Como Usar o Repositório (Guias por Perfil)**](#22--como-usar-o-repositório-por-perfil)
     - [Para Arquitetos de Soluções](#para-arquitetos-de-soluções)
@@ -28,20 +28,20 @@
     - [Para Pesquisadores](#para-pesquisadores)
     - [Para Estudantes](#para-estudantes)
 
-### [3 Fundamentos da RAG](#3--fundamentos-da-rag)
+### [3 Fundamentos da RAG](#3-fundamentos-da-rag-1)
 
-### [4 Contribuições Brasileiras (SBC)](#4--contribuições-brasileiras-sbc)
+### [4 Contribuições Brasileiras (SBC)](#4-contribuições-brasileiras-sbc-1)
 
-### [5 Taxonomia Temporal: Categorias C1-C5](#5--taxonomia-temporal-categorias-c1-c5)
+### [5 Taxonomia Temporal: Categorias C1-C5](#5-taxonomia-temporal-categorias-c1-c5-1)
 
-### [6 Framework de Decisão](#6--framework-de-decisão)
+### [6 Framework de Decisão](#6-framework-de-decisão-1)
   - [6.1 Árvore de Decisão](#61-árvore-de-decisão)
   - [6.2 Tabela Comparativa Multidimensional](#62-tabela-comparativa-multidimensional)
   - [6.3 Matriz de Adequação Técnica por Cenário](#63-matriz-de-adequação-técnica-por-cenário)
 
-### [7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7--estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
+### [7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7-estudo-de-caso-chatbot-para-o-campeonato-brasileiro-1)
 
-### [8 Bibliografia](#8-bibliografia)
+### [8 Bibliografia](#8-bibliografia-1)
     
 -----
 # 1. Visão Geral
