@@ -16,7 +16,7 @@
 
 # 📋 Índice
 
-### [1 Visão Geral](#1-visão-geral)
+### [1 Visão Geral](#1--visão-geral)
   - [**1.1 Sobre o Projeto**](#-11-sobre-o-projeto)
   - [**1.2. Para Quem é Este Repositório**](#12-para-quem-é-este-repositório)
 
