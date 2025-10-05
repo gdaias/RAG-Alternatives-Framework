@@ -1,5 +1,5 @@
 
-# 🎯 RAG e Suas Alternativas: Um Framework para o Aprimoramento de Grandes Modelos de Linguagem <!-- adicionar link oficial do artigo -->
+# 🎯 RAG e Suas Alternativas: Um Framework para o Aprimoramento de Grandes Modelos de Linguagem 
 
 ## Um Guia de Decisão Prático para Desenvolvedores
 
@@ -10,38 +10,38 @@
 
 > Apresentamos um framework prático de decisão para escolher entre RAG e outras técnicas de aprimoramento de Grandes Modelos de Linguagem (LLMs), com foco no contexto brasileiro.
 
-[**Artigo Científico**]([https://www.google.com/search?q=LINK](https://drive.google.com/file/d/1aMzeUXOVJrcXkTpRxJLBJ6c9-tD00dic/view?usp=sharing)) | [**Estudo de Caso**]([https://www.google.com/search?q=%23estudo-de-caso](https://github.com/evellynnicole/FutChat.git)) | [**Árvore de Decisão**]([https://www.google.com/search?q=%23framework-de-decis%C3%A3o](https://www.mermaidchart.com/d/669786ad-edbd-4709-8c3f-00de22da399a))
+[**Artigo Científico**](https://drive.google.com/file/d/1aMzeUXOVJrcXkTpRxJLBJ6c9-tD00dic/view?usp=sharing) | [**Estudo de Caso**](https://github.com/evellynnicole/FutChat.git) | [**Árvore de Decisão**](https://www.mermaidchart.com/d/669786ad-edbd-4709-8c3f-00de22da399a)
 
 -----
 
 # 📋 Índice
 
-### 1 Visão Geral
-  - **1.1 Sobre o Projeto**
-  - **1.2. Para Quem é Este Repositório** 
+### [1 Visão Geral](#1-visão-geral)
+  - [**1.1 Sobre o Projeto**](#-11-sobre-o-projeto)
+  - [**1.2. Para Quem é Este Repositório**](#12-para-quem-é-este-repositório)
 
-### 2 Guia de Uso Prático
-  - **2.1. Quick Start:**
-  - **2.2. Como Usar o Repositório (Guias por Perfil)**
-    - Para Arquitetos de Soluções
-    - Para Desenvolvedores
-    - Para Pesquisadores
-    - Para Estudantes
+### [2 Guia de Uso Prático](#2-guia-de-uso-prático)
+  - [**2.1. Quick Start:**](#21-quick-start)
+  - [**2.2. Como Usar o Repositório (Guias por Perfil)**](#22--como-usar-o-repositório-por-perfil)
+    - [Para Arquitetos de Soluções](#para-arquitetos-de-soluções)
+    - [Para Desenvolvedores](#para-desenvolvedores)
+    - [Para Pesquisadores](#para-pesquisadores)
+    - [Para Estudantes](#para-estudantes)
 
-### 3 Fundamentos da RAG
+### [3 Fundamentos da RAG](#3--fundamentos-da-rag)
 
-### 4 🇧🇷 Contribuições Brasileiras (SBC)
+### [4 Contribuições Brasileiras (SBC)](#4--contribuições-brasileiras-sbc)
 
-### 5 Taxonomia Temporal: Categorias C1-C5
+### [5 Taxonomia Temporal: Categorias C1-C5](#5--taxonomia-temporal-categorias-c1-c5)
 
-### 6 Framework de Decisão
-  - 6.1 Árvore de Decisão
-  - 6.2 Tabela Comparativa Multidimensional
-  - 6.3 Matriz de Adequação Técnica por Cenário
+### [6 Framework de Decisão](#6--framework-de-decisão)
+  - [6.1 Árvore de Decisão](#61-árvore-de-decisão)
+  - [6.2 Tabela Comparativa Multidimensional](#62-tabela-comparativa-multidimensional)
+  - [6.3 Matriz de Adequação Técnica por Cenário](#63-matriz-de-adequação-técnica-por-cenário)
 
-### 7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro
+### [7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7--estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
 
-### 8 Bibliografia
+### [8 Bibliografia](#8-bibliografia)
     
 -----
 # 1. Visão Geral
@@ -89,22 +89,22 @@ Este repositório apresenta um **framework prático de decisão** que transforma
 
 **Seus dados são privados/proprietários?**
 
-  - ✅ **SIM** → Vá para a [Árvore de Decisão - Ramo A]([https://www.google.com/search?q=%23framework-de-decis%C3%A3o](https://github.com/gdaias/RAG-Alternatives-Framework/blob/main/assets/decision_tree_private.png))
-  - ❌ **NÃO** → Vá para a [Árvore de Decisão - Ramo B]([https://www.google.com/search?q=%23framework-de-decis%C3%A3o](https://github.com/gdaias/RAG-Alternatives-Framework/blob/main/assets/decision_tree_public.png))
+  - ✅ **SIM** → Vá para a [Árvore de Decisão - Ramo A](https://github.com/gdaias/RAG-Alternatives-Framework/blob/main/assets/arvore de decisao/arvore_decisao_A.png)
+  - ❌ **NÃO** → Vá para a [Árvore de Decisão - Ramo B](https://github.com/gdaias/RAG-Alternatives-Framework/blob/main/assets/arvore_decisao_B.png)
 
-**Já sabe seu cenário?** Consulte a [Matriz de Adequação por Cenário](https://www.google.com/search?q=%23matriz-de-adequa%C3%A7%C3%A3o-t%C3%A9cnica-por-cen%C3%A1rio)
+**Já sabe seu cenário?** Consulte a [Matriz de Adequação por Cenário](https://github.com/gdaias/RAG-Alternatives-Framework/blob/main/assets/matriz de adequacao.png)
 
-**Quer ver na prática?** Explore o [Estudo de Caso: Chatbot do Campeonato Brasileiro de Futebol](https://www.google.com/search?q=%23estudo-de-caso)
+**Quer ver na prática?** Explore o [Estudo de Caso: Chatbot do Campeonato Brasileiro de Futebol](https://github.com/evellynnicole/FutChat.git)
 
 ### Navegação Rápida por Categoria
 
 | Categoria | O que é | Quando usar | Exemplos |
 |-----------|---------|-------------|----------|
-| [**C1**](https://www.google.com/search?q=%23categoria-1-internaliza%C3%A7%C3%A3o-de-conhecimento) | Internalização de conhecimento no treino (modificação de pesos do modelo) | Conhecimento estável, recursos disponíveis | Fine-Tuning, LoRA, QLoRA |
-| [**C2**](https://www.google.com/search?q=%23categoria-2-recupera%C3%A7%C3%A3o-de-conhecimento-externo) | Recuperação de conhecimento externo em tempo real | Dados dinâmicos, atualizações frequentes | RAG tradicional, Hybrid Retrieval, GraphRAG, Search-First, Tool-Augmented |
-| [**C3**](https://www.google.com/search?q=%23categoria-3-expans%C3%A3o-de-contexto) | Expansãoo da janela de contexto (no prompt) | Documentos completos, \<1M tokens | Long Context |
-| [**C4**](https://www.google.com/search?q=%23categoria-4-otimiza%C3%A7%C3%A3o-de-racioc%C3%ADnio) | Otimização do raciocínio (processamento da informação) | Problemas complexos, sem dados externos, técnica complementar | Chain-of-Thought |
-| [**C5**](https://www.google.com/search?q=%23categoria-5-protocolos-de-habilita%C3%A7%C3%A3o) | Protocolos e Frameworks de Habilitação | Infraestrutura de suporte para outras categorias | Knowledge Graphs, Neuro-Simbólico, Model Context Protocol |
+| [**C1**](#categoria-1-internalização-de-conhecimento-no-treino) | Internalização de conhecimento no treino (modificação de pesos do modelo) | Conhecimento estável, recursos disponíveis | Fine-Tuning, LoRA, QLoRA |
+| [**C2**](#categoria-2-recuperação-de-conhecimento-externo-tempo-real) | Recuperação de conhecimento externo em tempo real | Dados dinâmicos, atualizações frequentes | RAG tradicional, Hybrid Retrieval, GraphRAG, Search-First, Tool-Augmented |
+| [**C3**](#categoria-3-expansão-da-janela-de-contexto) | Expansãoo da janela de contexto (no prompt) | Documentos completos, \<1M tokens | Long Context |
+| [**C4**](#categoria-4-otimização-do-raciocínio) | Otimização do raciocínio (processamento da informação) | Problemas complexos, sem dados externos, técnica complementar | Chain-of-Thought |
+| [**C5**](#categoria-5-protocolos-e-frameworks-de-habilitação) | Protocolos e Frameworks de Habilitação | Infraestrutura de suporte para outras categorias | Knowledge Graphs, Neuro-Simbólico, Model Context Protocol |
 
 ## 2.2 🚀 Como Usar o Repositório (por perfil)
 
@@ -121,17 +121,16 @@ Este repositório apresenta um **framework prático de decisão** que transforma
 
 2.  **Consulte a Árvore de Decisão**
 
-      - Siga o fluxo de perguntas em [`assets/decision_tree.png`](https://www.google.com/search?q=assets/decision_tree.png)
-      - Ou use a versão textual em [`framework_materials/decision_flowchart.md`](https://www.google.com/search?q=framework_materials/decision_flowchart.md)
+      - Siga o fluxo de perguntas em [Árvore de Decisão Completa](https://www.mermaidchart.com/d/669786ad-edbd-4709-8c3f-00de22da399a)
 
 3.  **Valide com a Matriz de Cenários**
 
-      - Encontre cenários similares em [Matriz de Adequação Técnica por Cenário](https://www.google.com/search?q=%23matriz-de-adequa%C3%A7%C3%A3o-t%C3%A9cnica-por-cen%C3%A1rio)
-      - Compare com a [Tabela Comparativa Multidimensional](https://www.google.com/search?q=%23tabela-comparativa-multidimensional)
+      - Encontre cenários similares em [Matriz de Adequação por Cenário](#63-matriz-de-adequação-técnica-por-cenário)
+      - Compare com a [Tabela Comparativa Multidimensional](#62-tabela-comparativa-multidimensional)
 
 4.  **Consulte o Estudo de Caso**
 
-      - Veja implementação prática em [`case_studies/`](https://www.google.com/search?q=case_studies/)
+      - Veja implementação prática em [Estudo de Caso: Chatbot do Campeonato Brasileiro de Futebol](https://github.com/evellynnicole/FutChat.git)
 
 ### Para Desenvolvedores
 
@@ -144,7 +143,7 @@ Este repositório apresenta um **framework prático de decisão** que transforma
 
 2.  **Analise o código de exemplo**
 
-      - Explore o estudo de caso em [`case_studies/chatbot_futebol/`](https://www.google.com/search?q=case_studies/chatbot_futebol/)
+      - Explore o estudo de caso em [Estudo de Caso: Chatbot do Campeonato Brasileiro de Futebol](https://github.com/evellynnicole/FutChat.git)
       - Consulte o [TCC completo da Evellyn](http://repositorio.bc.ufg.br//handle/ri/27277)
 
 3.  **Adapte para seu contexto**
@@ -158,17 +157,17 @@ Este repositório apresenta um **framework prático de decisão** que transforma
 
 1.  **Revisão bibliográfica**
 
-      - [Fundamentos da RAG](https://www.google.com/search?q=%23fundamentos-da-rag): artigos seminais
-      - [Contribuições Brasileiras](https://www.google.com/search?q=%23-contribui%C3%A7%C3%B5es-brasileiras-sbc): trabalhos SBC
+      - [Fundamentos da RAG](#3--fundamentos-da-rag): artigos seminais
+      - [Contribuições Brasileiras](#4--contribuições-brasileiras-sbc): trabalhos SBC
 
 2.  **Framework acadêmico**
 
-      - Taxonomia conceitual em [`docs/taxonomia_detalhada.md`](https://www.google.com/search?q=docs/taxonomia_detalhada.md)
-      - Artigo completo em [`docs/artigo_completo.pdf`](https://www.google.com/search?q=docs/artigo_completo.pdf)
+      - [Taxonomia conceitual](#5-️-taxonomia-temporal-categorias-c1-c5)
+      - Artigo completo em [RAG e Suas Alternativas: Um Framework para o Aprimoramento de Grandes Modelos de Linguagem](https://drive.google.com/file/d/1aMzeUXOVJrcXkTpRxJLBJ6c9-tD00dic/view?usp=sharing)
 
 3.  **Citação do trabalho**
 
-      - Veja [Como Citar](https://www.google.com/search?q=%23cita%C3%A7%C3%A3o)
+(Adicionar a citação do artigo)
 
 ### Para Estudantes
 
@@ -176,11 +175,11 @@ Este repositório apresenta um **framework prático de decisão** que transforma
 
 **Caminho recomendado**:
 
-1.  Comece com [Sobre o Projeto](https://www.google.com/search?q=%23%F0%9F%8E%AF-sobre-o-projeto)
-2.  Leia [Fundamentos da RAG](https://www.google.com/search?q=%23%F0%9F%93%9A-fundamentos-da-rag)
-3.  Explore a [Taxonomia C1-C5](https://www.google.com/search?q=%23%F0%9F%97%82%EF%B8%8F-taxonomia-temporal-categorias-c1-c5)
-4.  Pratique com o [Estudo de Caso](https://www.google.com/search?q=%23%F0%9F%94%AC-estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
-5.  Teste sua compreensão usando o [Framework de Decisão](https://www.google.com/search?q=%23%F0%9F%8E%AF-framework-de-decis%C3%A3o)
+1.  Comece com [Sobre o Projeto](#-11-sobre-o-projeto)
+2.  Leia [Fundamentos da RAG](#3--fundamentos-da-rag)
+3.  Explore a [Taxonomia C1-C5](#5-️-taxonomia-temporal-categorias-c1-c5)
+4.  Pratique com o [Estudo de Caso](#7--estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
+5.  Teste sua compreensão usando o [Framework de Decisão](#6--framework-de-decisão)
 
 -----
 
@@ -411,15 +410,16 @@ Não são técnicas de aprimoramento direto, mas habilitam outras categorias.
 
 ### 6.1 Árvore de Decisão
 
+[**Árvore de Decisão Completa**](https://www.mermaidchart.com/d/669786ad-edbd-4709-8c3f-00de22da399a)
 A árvore orienta a seleção técnica através de perguntas sequenciais sobre características fundamentais do problema:
 
 **Ramo A - Dados Privados/Proprietários**
 
-![Árvore de Decisão - Dados Privados](assets/decision_tree_private.png)
+![Árvore de Decisão - Dados Privados](assets/arvore de decisao/arvore_decisao_A.png)
 
 **Ramo B - Dados Públicos**
 
-![Árvore de Decisão - Dados Públicos](assets/decision_tree_public.png)
+![Árvore de Decisão - Dados Públicos](assets/arvore de decisao/arvore_decisao_B.png)
 
 ### 6.2 Tabela Comparativa Multidimensional
 
