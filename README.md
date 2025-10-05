@@ -32,7 +32,7 @@
 
 ### [4 Contribuições Brasileiras (SBC)](#4-contribuições-brasileiras-sbc-1)
 
-### [5 Taxonomia Temporal: Categorias C1-C5](#5-taxonomia-temporal-categorias-c1-c5-1)
+### [5 Taxonomia Temporal: Categorias C1-C5](#5-%EF%B8%8F-taxonomia-temporal-categorias-c1-c5)
 
 ### [6 Framework de Decisão](#6-framework-de-decisão-1)
   - [6.1 Árvore de Decisão](#61-árvore-de-decisão)
