@@ -41,7 +41,7 @@
 
 ### [7 Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7--estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
 
-### [8 Validação do Framework de Decisão](#8--validação-do-framework-de-decisão-para-aprimoramento-de-LLMs)
+### [8 Validação do Framework de Decisão](#8--validação-do-framework-de-decisão-para-aprimoramento-de-llms)
 
 ### [9 Bibliografia](#9-bibliografia-1)
     
