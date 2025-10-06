@@ -39,7 +39,7 @@
   - [6.2 Tabela Comparativa Multidimensional](#62-tabela-comparativa-multidimensional)
   - [6.3 Matriz de Adequação Técnica por Cenário](#63-matriz-de-adequação-técnica-por-cenário)
 
-### [7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7-estudo-de-caso-chatbot-para-o-campeonato-brasileiro-1)
+### [7 Validação e Estudo de Caso: Chatbot para o Campeonato Brasileiro](#7--estudo-de-caso-chatbot-para-o-campeonato-brasileiro)
 
 ### [8 Bibliografia](#8-bibliografia-1)
     
